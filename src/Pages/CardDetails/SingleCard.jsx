@@ -33,7 +33,7 @@ const SingleCard = ({ singleCard }) => {
                 )
             }
         }
-        console.log(addDonationItem);
+
     }
 
 
