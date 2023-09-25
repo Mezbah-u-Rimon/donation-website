@@ -3,6 +3,7 @@ import MainLayout from "../Layout/MainLayout";
 import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
+import CardDetails from "../Pages/CardDetails/CardDetails";
 
 
 const router = createBrowserRouter([
@@ -12,7 +13,8 @@ const router = createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <Home></Home>
+                element: <Home></Home>,
+                loader: () => fetch('/data.json')
             },
             {
                 path: '/donation',
@@ -21,6 +23,11 @@ const router = createBrowserRouter([
             {
                 path: '/statistics',
                 element: <Statistics></Statistics>
+            },
+            {
+                path: '/cardDetails/:id',
+                element: <CardDetails></CardDetails>,
+                loader: () => fetch('/data.json')
             }
         ]
     }
