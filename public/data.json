@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "images": "https://i.ibb.co/JmCF92h/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "ctg_bg_clr": "#0052FF33",
+        "cd_bg_clr": "#0052ff26",
+        "text__btn_bg_clr": "#0052FF",
+        "description": " Clean water is essential for survival. Your contribution will directly save lives by preventing waterborne diseases and ensuring access to safe drinking water.and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 2,
+        "images": "https://i.ibb.co/Zgg18HM/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "ctg_bg_clr": "#ff444a33",
+        "cd_bg_clr": "#ff444a26",
+        "text__btn_bg_clr": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 3,
+        "images": "https://i.ibb.co/hfMD5dW/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "ctg_bg_clr": "#79c23f33",
+        "cd_bg_clr": "#79c23f26",
+        "text__btn_bg_clr": "#79C23F",
+        "description": "Your gently used clothing items can be a lifeline for individuals and families facing financial hardship, homelessness, or other challenges. Your donation can provide warmth, comfort, and dignity.By recycling and reusing clothing, you are contributing to a more sustainable world. It reduces textile waste, conserves resources, and lowers the carbon footprint associated with clothing production.",
+        "price": 290.00
+    },
+    {
+        "id": 4,
+        "images": "https://i.ibb.co/vHp8hjD/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "ctg_bg_clr": "#f8714733",
+        "cd_bg_clr": "#f8714726",
+        "text__btn_bg_clr": "#F87147",
+        "description": "Nutrient-rich foods are the foundation of good health. Access to better food can reduce the risk of chronic diseases, enhance cognitive development in children, and promote overall well-being.Supporting sustainable and ethical food production practices helps protect our planet's resources, reduces food waste, and safeguards biodiversity for future generations.Through equitable food distribution, we can work towards ending hunger and food insecurity, ensuring that no one goes without a meal.",
+        "price": 290.00
+    },
+    {
+        "id": 5,
+        "images": "https://i.ibb.co/vHp8hjD/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "ctg_bg_clr": "#f8714733",
+        "cd_bg_clr": "#f8714726",
+        "text__btn_bg_clr": "#F87147",
+        "description": "Nutrient-rich foods are the foundation of good health. Access to better food can reduce the risk of chronic diseases, enhance cognitive development in children, and promote overall well-being.Supporting sustainable and ethical food production practices helps protect our planet's resources, reduces food waste, and safeguards biodiversity for future generations.Through equitable food distribution, we can work towards ending hunger and food insecurity, ensuring that no one goes without a meal.",
+        "price": 290.00
+    },
+    {
+        "id": 6,
+        "images": "https://i.ibb.co/hfMD5dW/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "ctg_bg_clr": "#79c23f33",
+        "cd_bg_clr": "#79c23f26",
+        "text__btn_bg_clr": "#79C23F",
+        "description": "Your gently used clothing items can be a lifeline for individuals and families facing financial hardship, homelessness, or other challenges. Your donation can provide warmth, comfort, and dignity.By recycling and reusing clothing, you are contributing to a more sustainable world. It reduces textile waste, conserves resources, and lowers the carbon footprint associated with clothing production.",
+        "price": 290.00
+    },
+    {
+        "id": 7,
+        "images": "https://i.ibb.co/Zgg18HM/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "ctg_bg_clr": "#ff444a33",
+        "cd_bg_clr": "#ff444a26",
+        "text__btn_bg_clr": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 8,
+        "images": "https://i.ibb.co/JmCF92h/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "ctg_bg_clr": "#0052FF33",
+        "cd_bg_clr": "#0052ff26",
+        "text__btn_bg_clr": "#0052FF",
+        "description": " Clean water is essential for survival. Your contribution will directly save lives by preventing waterborne diseases and ensuring access to safe drinking water.and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 9,
+        "images": "https://i.ibb.co/JmCF92h/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "ctg_bg_clr": "#0052FF33",
+        "cd_bg_clr": "#0052ff26",
+        "text__btn_bg_clr": "#0052FF",
+        "description": " Clean water is essential for survival. Your contribution will directly save lives by preventing waterborne diseases and ensuring access to safe drinking water.and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 10,
+        "images": "https://i.ibb.co/Zgg18HM/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "ctg_bg_clr": "#ff444a33",
+        "cd_bg_clr": "#ff444a26",
+        "text__btn_bg_clr": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+    },
+    {
+        "id": 11,
+        "images": "https://i.ibb.co/hfMD5dW/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "ctg_bg_clr": "#79c23f33",
+        "cd_bg_clr": "#79c23f26",
+        "text__btn_bg_clr": "#79C23F",
+        "description": "Your gently used clothing items can be a lifeline for individuals and families facing financial hardship, homelessness, or other challenges. Your donation can provide warmth, comfort, and dignity.By recycling and reusing clothing, you are contributing to a more sustainable world. It reduces textile waste, conserves resources, and lowers the carbon footprint associated with clothing production.",
+        "price": 290.00
+    },
+    {
+        "id": 12,
+        "images": "https://i.ibb.co/vHp8hjD/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "ctg_bg_clr": "#f8714733",
+        "cd_bg_clr": "#f8714726",
+        "text__btn_bg_clr": "#F87147",
+        "description": "Nutrient-rich foods are the foundation of good health. Access to better food can reduce the risk of chronic diseases, enhance cognitive development in children, and promote overall well-being.Supporting sustainable and ethical food production practices helps protect our planet's resources, reduces food waste, and safeguards biodiversity for future generations.Through equitable food distribution, we can work towards ending hunger and food insecurity, ensuring that no one goes without a meal.",
+        "price": 290.00
+    },
+]
