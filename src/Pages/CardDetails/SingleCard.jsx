@@ -21,14 +21,14 @@ const SingleCard = ({ singleCard }) => {
                 localStorage.setItem("donation", JSON.stringify(addDonationItem));
                 Swal.fire(
                     'Good job!',
-                    'Product added successfully!',
+                    'Your Donation added successfully!',
                     'success'
                 )
             }
             else {
                 Swal.fire(
-                    'Opps Sorry!',
-                    'No Duplicate',
+                    'Sorry!',
+                    'You have already donate this group',
                     'error'
                 )
             }

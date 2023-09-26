@@ -5,7 +5,6 @@ import DonationCard from "./DonationCard";
 const Donation = () => {
     const [donation, setDonation] = useState([]);
     const [noData, setNoData] = useState("");
-    const [totalPrice, setTotalPrice] = useState(0);
     const [isShow] = useState(false);
     const [hideData, setHideData] = useState(4);
 
@@ -14,12 +13,9 @@ const Donation = () => {
 
         if (donationItem) {
             setDonation(donationItem);
-
-            const total = donationItem.reduce((previous, current) => previous + current.price, 0);
-            setTotalPrice(total)
         }
         else {
-            setNoData("You have not made any donation yet")
+            setNoData("You have not made any donation")
         }
 
     }, [])
@@ -49,7 +45,6 @@ const Donation = () => {
                     </div>
                 )}
             <div>
-
             </div>
         </div>
     );
