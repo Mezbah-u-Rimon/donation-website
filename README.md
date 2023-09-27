@@ -19,5 +19,5 @@ Third is the Statistics page. This page will contain a pie chart. The total of a
 </ul>
 
 <h3 className="text-2xl"> link :
-<a href="http://rimon-donation-organization.surge.sh" target="_blank" rel="donation"></a>
+<a href="http://rimon-donation-organization.surge.sh" target="_blank" rel="donation">Donation the Organization </a>
 </h3>
