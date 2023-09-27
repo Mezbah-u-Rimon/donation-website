@@ -12,6 +12,7 @@ const Statistics = () => {
         setTotalPrices(prices);
 
         const donationItem = JSON.parse(localStorage.getItem("donation"));
+        console.log(donationItem);
 
         if (donationItem) {
             const total = donationItem.reduce((previous, current) => previous + current.price, 0);

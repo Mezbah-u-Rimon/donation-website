@@ -40,8 +40,7 @@ const Donation = () => {
                             </button>
 
                         }
-                        <div>
-                        </div>
+
                     </div>
                 )}
             <div>

@@ -20,7 +20,7 @@ const SingleCard = ({ singleCard }) => {
                 addDonationItem.push(...donationItem, singleCard);
                 localStorage.setItem("donation", JSON.stringify(addDonationItem));
                 Swal.fire(
-                    'Good job!',
+                    'Thank You',
                     'Your Donation added successfully!',
                     'success'
                 )
