@@ -5,7 +5,7 @@ const AllCards = ({ card }) => {
     const { id, images, title, category, ctg_bg_clr, cd_bg_clr, text_btn_bg_clr } = card;
 
     return (
-        <Link to={`/cardDetails/${id}`}>
+        <Link to={`/cardDetails/${id}`} state={category}>
             <div style={{ backgroundColor: cd_bg_clr, color: text_btn_bg_clr }} className="relative flex flex-col justify-center rounded-xl bg-clip-border shadow-md">
 
                 <div className="relative rounded-t-xl">

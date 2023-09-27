@@ -2,8 +2,8 @@
 
 const Logo = () => {
     return (
-        <div>
-            <img src="/public/images/Logo.png" alt="" />
+        <div className="w-[180px]">
+            <img src="https://i.ibb.co/kXHHKRV/Logo.png" alt="" />
         </div>
     );
 };

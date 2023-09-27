@@ -2,8 +2,6 @@ import { Chart } from "react-google-charts";
 import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 
-
-
 const Statistics = () => {
     const priceCards = useLoaderData();
     const [totalPrice, setTotalPrice] = useState(0);
@@ -14,8 +12,8 @@ const Statistics = () => {
         setTotalPrices(prices);
 
         const donationItem = JSON.parse(localStorage.getItem("donation"));
-        if (donationItem) {
 
+        if (donationItem) {
             const total = donationItem.reduce((previous, current) => previous + current.price, 0);
             setTotalPrice(total)
         }
@@ -23,8 +21,6 @@ const Statistics = () => {
             setTotalPrice(0);
         }
     }, [priceCards]);
-
-
 
     //pie Chart
 
@@ -35,7 +31,7 @@ const Statistics = () => {
     ];
 
     const options = {
-        title: "Your total donation among various organizations",
+        title: "Your donation percentage from total donation",
     };
 
     return (
